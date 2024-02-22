@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-provider",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Nodemailer auto SMTP config provider from a list of emails to avoid services like sendgrid etc",
   "main": "index.js",
   "scripts": {
