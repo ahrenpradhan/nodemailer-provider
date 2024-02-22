@@ -16,6 +16,7 @@ Along with Nodemailer npm package use this to avoid paid services like Sendgrid,
 #### Database schema or structure
 
 ##### Mongo
+
 1. sender email
 2. type (default "no-reply")
 3. config STRING (nodemailer config stringified JSON)
@@ -23,7 +24,8 @@ Along with Nodemailer npm package use this to avoid paid services like Sendgrid,
 5. limit
 6. time_limit (String) time string in miliseconds
 
-###### Mysql
+##### Mysql
+
 1. sender email
 2. type (default "no-reply")
 3. config STRING (nodemailer config stringified JSON)
